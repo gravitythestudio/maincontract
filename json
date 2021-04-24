@@ -3,4 +3,6 @@
   "external_link": "https:/gravitythestud.io", 
   "image": "https://ipfs.io/ipfs/Qmf1sbmgnQkD2f4ibwGErsVCEa72uc9oBagbGj11CLDezXg", 
   "name": "Gravity the Studio"
+  "seller_fee_basis_points": 200,
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
 }
